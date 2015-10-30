@@ -1,0 +1,6 @@
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\bin\Debug\ConsoleTcpClient.exe.config
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\bin\Debug\ConsoleTcpClient.exe
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\bin\Debug\ConsoleTcpClient.pdb
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\obj\Debug\ConsoleTcpClient.exe
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\obj\Debug\ConsoleTcpClient.pdb
+d:\user\documents\visual studio 2013\Projects\ConsoleTcpClient\ConsoleTcpClient\obj\Debug\ConsoleTcpClient.csprojResolveAssemblyReference.cache
